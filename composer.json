@@ -1,5 +1,5 @@
 {
-    "name": "osbox/swaggervel-2",
+    "name": "alexmaramaldo/swaggervel-2",
     "description": "A great way to integrate Swagger into Laravel",
     "keywords": ["laravel", "swagger", "l4", "l5", "documentation", "api"],
     "version": "5.0.0",
